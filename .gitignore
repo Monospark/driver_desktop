@@ -1,0 +1,6 @@
+x64/
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.filters
